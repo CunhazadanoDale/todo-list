@@ -25,5 +25,3 @@ O projeto conta com **autenticação JWT**, garantindo que apenas usuários aute
 
 ---
 
-## 📂 Estrutura do Projeto
-
